@@ -1,8 +1,8 @@
 package migrations
 
 import (
-	"food-delivery/database"
-	"food-delivery/models"
+	"go-chi-gorm-test/database"
+	"go-chi-gorm-test/models"
 )
 
 func Migrate() {

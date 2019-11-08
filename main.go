@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"food-delivery/database"
-	"food-delivery/migrations"
-	"food-delivery/models"
+	"go-chi-gorm-test/database"
+	"go-chi-gorm-test/migrations"
+	"go-chi-gorm-test/models"
 	"net/http"
 	"os"
 
